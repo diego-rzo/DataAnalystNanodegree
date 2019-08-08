@@ -14,3 +14,8 @@ It is important that you get some practice working with the difficulties of thes
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website.
 Your goal is to work through this notebook to help the company understand if they should implement the new page,
 keep the old page, or perhaps run the experiment longer to make their decision.
+
+- **Project 3: Wrangle and Analyze data.**
+During this project a database is built gathering data from different sources.
+Then the data is assesses and finally cleaned to produce some insights and visualizations.
+Now the followed process will be described.
