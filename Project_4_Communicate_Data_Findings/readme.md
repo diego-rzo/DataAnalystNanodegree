@@ -1,6 +1,4 @@
-# Ford_GoBike_Data_Analysis
-## by Diego ZUNIGA
-
+# Project 4: Ford GoBike Data Analysis
 
 ## Dataset
 
