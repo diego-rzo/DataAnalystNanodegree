@@ -19,3 +19,7 @@ keep the old page, or perhaps run the experiment longer to make their decision.
 During this project a database is built gathering data from different sources.
 Then the data is assesses and finally cleaned to produce some insights and visualizations.
 Now the followed process will be described.
+
+- [**Project 4: Communicate data findings.**](https://github.com/diego-rzo/DataAnalystNanodegree/tree/master/Project_4_Communicate_Data_Findings)
+The investigated dataset is the data provided by Ford GoBike from the year 2017 contained in a dataframe organized by biketrips. Each biketrip is described with information about the duration of the trip, and the start and end time and place. They also provide anonymized information about the users like, gender, birth year and type of user. It contains more than 500.000 trips and some of them were removed due to missing data. Finally the investigation was made in the remaining 453159 rows.
+
